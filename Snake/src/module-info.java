@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Manjary
+ *
+ */
+module Snake {
+}
