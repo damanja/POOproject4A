@@ -1,2 +1,2 @@
 # POOproject4A
-Jeu de la vie
+Jeu de la vie - Snake
